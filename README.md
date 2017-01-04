@@ -1,5 +1,7 @@
 # Learn English Every Single Day
 
+![Challenge Accepted](https://media.giphy.com/media/AWv3UAFkgz39u/giphy.gif)
+
 ## Tools
 - [Anki](http://ankisrs.net/) - Spaced repetition software
 - [learn english](http://afonsopacifer.github.io/learn-english/) - Text and audio inputs
@@ -35,6 +37,15 @@
 - [ ] [RWD podcast - Digitalocean.com on the Responsive Web Design Podcast](https://responsivewebdesign.com/podcast/digitalocean/)
 - [ ] [Una Kravets Blog - Rethinking Responsive Design](https://una.im/rethinking-responsive/#💁)
 - [ ] [Una Kravets Blog - Simplicity in Design: Insights from an Industrial Engineer](https://una.im/simplicity-in-eng/#💁)
+- [ ] [Mairo Vergara - Know yourself](https://www.youtube.com/watch?v=lCEsJmzRIeo)
+- [ ] [Polymer Summit 2015 - Polymer's Styling System](https://www.youtube.com/watch?v=IbOaJwqLgog)
+- [ ] [Google I/O 2016 - Practical lessons from a year of building web components](https://www.youtube.com/watch?v=zfQoleQEa4w&t=14s)
+- [ ] [Polycasts - #55 Forms!](https://www.youtube.com/watch?v=AVXu1_vaY2U&t=23s)
+- [ ] [Polycasts - Moar Forms! #56](https://www.youtube.com/watch?v=K76g5DGCBOk)
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
 
 #### My Deck for spaced repetition ([Anki](http://ankisrs.net/))
 - [ ] 50 cards
@@ -47,8 +58,8 @@
 #### Study 10 books
 - [ ] ?????
 
-#### Study 1 serie season
-- [ ] ?????
+#### Study a serie season
+- [ ] [How i met your mother](https://www.google.com.br/search?q=how+i+met+your+mother&oq=how+i+meet&aqs=chrome.1.69i57j0l5.2983j0j9&sourceid=chrome&ie=UTF-8)
 
 ## Log
 
@@ -56,7 +67,7 @@
 |:---------:|:-------:|:----------:|:--------------:|:----------------:|
 | 01/01/17  | 5min    | 5min       | X | X |
 | 02/01/17  | 5min    | 5min       | X | X |
-| 03/01/17  |         |            |   |
+| 03/01/17  | 5min    | 15min      | X | X |
 | 04/01/17  |         |            |   |
 | 05/01/17  |         |            |   |
 | 06/01/17  |         |            |   |
