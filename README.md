@@ -9,6 +9,7 @@
 - [Oxford dictionaries](https://en.oxforddictionaries.com/) - English dictionary
 - [React pomodoro](http://afonsopacifer.github.io/react-pomodoro/) - Pomodoro timer
 - [Vue meditation](https://afonsopacifer.github.io/vue-meditation/) - Meditation timer
+- [Itunes](http://www.apple.com/br/itunes/) - Audio player
 
 ## Rules for every day
 - Read a text
@@ -40,12 +41,7 @@
 - [ ] [Mairo Vergara - Know yourself](https://www.youtube.com/watch?v=lCEsJmzRIeo)
 - [ ] [Polymer Summit 2015 - Polymer's Styling System](https://www.youtube.com/watch?v=IbOaJwqLgog)
 - [ ] [Google I/O 2016 - Practical lessons from a year of building web components](https://www.youtube.com/watch?v=zfQoleQEa4w&t=14s)
-- [ ] [Polycasts - #55 Forms!](https://www.youtube.com/watch?v=AVXu1_vaY2U&t=23s)
-- [ ] [Polycasts - Moar Forms! #56](https://www.youtube.com/watch?v=K76g5DGCBOk)
-- [ ] []()
-- [ ] []()
-- [ ] []()
-
+- [ ] [toolsday - Animation Tools with Sarah](http://toolsday.io/episodes/animationtools.html)
 
 #### My Deck for spaced repetition ([Anki](http://ankisrs.net/))
 - [ ] 50 cards
@@ -56,46 +52,52 @@
 - [ ] 2500 cards
 
 #### Study 10 books
-- [ ] ?????
+- [ ] [CSS Secrets: Better Solutions to Everyday Web Design Problems](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
 
 #### Study a serie season
 - [ ] [How i met your mother](https://www.google.com.br/search?q=how+i+met+your+mother&oq=how+i+meet&aqs=chrome.1.69i57j0l5.2983j0j9&sourceid=chrome&ie=UTF-8)
 
 ## Log
 
-| Day       | Read    |  Listener  | Pronunciation | Spaced repetition
-|:---------:|:-------:|:----------:|:--------------:|:----------------:|
-| 01/01/17  | 5min    | 5min       | X | X |
-| 02/01/17  | 5min    | 5min       | X | X |
-| 03/01/17  | 5min    | 15min      | X | X |
-| 04/01/17  | X       | 3min       | X | X |
-| 05/01/17  | 25min   | 5min       | X | X |
-| 06/01/17  | X       | 5min       | X | X |
-| 07/01/17  | 25min   | 10min      | X |  53 cards in 6min |
-| 08/01/17  |         |            |   |
-| 09/01/17  |         |            |   |
-| 10/01/17  |         |            |   |
-| 11/01/17  |         |            |   |
-| 12/01/17  |         |            |   |
-| 13/01/17  |         |            |   |
-| 14/01/17  |         |            |   |
-| 15/01/17  |         |            |   |
-| 16/01/17  |         |            |   |
-| 17/01/17  |         |            |   |
-| 18/01/17  |         |            |   |
-| 19/01/17  |         |            |   |
-| 20/01/17  |         |            |   |
-| 21/01/17  |         |            |   |
-| 22/01/17  |         |            |   |
-| 23/01/17  |         |            |   |
-| 24/01/17  |         |            |   |
-| 25/01/17  |         |            |   |
-| 26/01/17  |         |            |   |
-| 27/01/17  |         |            |   |
-| 28/01/17  |         |            |   |
-| 29/01/17  |         |            |   |
-| 20/01/17  |         |            |   |
-| 31/01/17  |         |            |   |
+| Day       | Read    |  Listener  | Pronunciation | SRS  | EP |
+|:---------:|:-------:|:----------:|:--------------:|:---:|:---:|
+| 01/01/17  | 5min    | 5min       | X | X | X |
+| 02/01/17  | 5min    | 5min       | X | X | X |
+| 03/01/17  | 5min    | 15min      | X | X | X |
+| 04/01/17  | X       | 3min       | X | X | X |
+| 05/01/17  | 25min   | 5min       | X | X | X |
+| 06/01/17  | X       | 5min       | X | X | X |
+| 07/01/17  | 25min   | 10min      | X | 53 cards / 6min | X |
+| 08/01/17  | X       | 5min       | X | X | X |
+| 09/01/17  | 5min    | 5min       | X | 29 cards / 6min | X |
+| 10/01/17  | 25min   | 25min      | X | 12 cards / 3min |Polycasts #01|
+| 11/01/17  |         |            |   |   |
+| 12/01/17  |         |            |   |   |
+| 13/01/17  |         |            |   |   |
+| 14/01/17  |         |            |   |   |
+| 15/01/17  |         |            |   |   |
+| 16/01/17  |         |            |   |   |
+| 17/01/17  |         |            |   |   |
+| 18/01/17  |         |            |   |   |
+| 19/01/17  |         |            |   |   |
+| 20/01/17  |         |            |   |   |
+| 21/01/17  |         |            |   |   |
+| 22/01/17  |         |            |   |   |
+| 23/01/17  |         |            |   |   |
+| 24/01/17  |         |            |   |   |
+| 25/01/17  |         |            |   |   |
+| 26/01/17  |         |            |   |   |
+| 27/01/17  |         |            |   |   |
+| 28/01/17  |         |            |   |   |
+| 29/01/17  |         |            |   |   |
+| 20/01/17  |         |            |   |   |
+| 31/01/17  |         |            |   |   |
+
+
+## Special challenges
+
+- [ ] [Watch a Polycast episode every single day](special-challenges/polycast.md) - **Doing | Current 1 day**
+- [ ] [Watch all CSSConf.Asia 2015 talks](special-challenges/cssconf-asia-2015.md)
 
 ## License
 [MIT License](https://github.com/afonsopacifer/learn-english-every-single-day/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.github.io/)
