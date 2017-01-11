@@ -81,7 +81,7 @@
 | 08/01/17  | X       | 5min       | X | X | X |
 | 09/01/17  | 5min    | 5min       | X | 29 cards / 6min | X |
 | 10/01/17  | 25min   | 25min      | X | 12 cards / 3min |Polycasts #01|
-| 11/01/17  | 30min   | 56min      | 5min | 15 cards / 3min | A11ycasts #01 |
+| 11/01/17  | 30min   | 1:16h      | 5min | 15 cards / 3min | A11ycasts #01 / Polycasts #07 |
 | 12/01/17  |         |            |   |   |
 | 13/01/17  |         |            |   |   |
 | 14/01/17  |         |            |   |   |
@@ -106,9 +106,9 @@
 
 ## Special challenges
 
-- [ ] [Learning 100x the "Rethinking Responsive Design" in 10 days](special-challenges/100x-rethinking-responsive-design.md) - **day 1 total 4/100**
+- [ ] [Learning 100x the "Rethinking Responsive Design" in 10 days](special-challenges/100x-rethinking-responsive-design.md) - **day 1 total 7/100**
 - [ ] [Watch a Polycast episode every single day](special-challenges/polycast.md) - **Current 2 day**
-- [ ] [Watch all CSSConf.Asia 2015 talks](special-challenges/cssconf-asia-2015.md)
+- [ ] [Watch all CSSConf.Asia 2015 talks](special-challenges/cssconf-asia-2015.md)- **0/10**
 - [ ] [Watch all "100 days of Google Dev" videos](special-challenges/100-days-of-google-dev.md) - **1/100**
 
 ## License
