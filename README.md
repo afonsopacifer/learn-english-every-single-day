@@ -19,6 +19,12 @@
 
 ## Goals
 
+#### Follow!
+*Keep me updated with news*
+- [ ] [Polycasts - By Rob Dodson and Monica Dinculescu](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo)
+- [ ] [funfunfunction - By MJP](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+- [ ] [A11ycasts - By Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+
 #### listening skills
 - [x] Lv 1 - Gibberish
 - [ ] Lv 2 - Understanding single words
@@ -33,15 +39,18 @@
 - [ ] [Una Kravets Blog - Simplicity in Design: Insights from an Industrial Engineer](https://una.im/simplicity-in-eng/#💁)
 
 #### Linten 100 Comprehensible Input (Audio)
+- [x] [Una Kravets Blog - Rethinking Responsive Design](https://una.im/rethinking-responsive/#💁)
+- [x] [Introduction to the Physical Web](https://www.youtube.com/watch?v=1yaLPRgtlR0)
+- [x] [Introducing A11ycasts! -- A11ycasts #01](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&index=10)
 - [ ] [Learn english - From Struggle Comes Success](http://afonsopacifer.github.io/learn-english/from-struggle-comes-success.html)
 - [ ] [Una Kravets Blog - 3 Years of Pattern Libraries: Lessons Learned](https://una.im/pattern-libs/#💁)
 - [ ] [RWD podcast - Digitalocean.com on the Responsive Web Design Podcast](https://responsivewebdesign.com/podcast/digitalocean/)
-- [ ] [Una Kravets Blog - Rethinking Responsive Design](https://una.im/rethinking-responsive/#💁)
 - [ ] [Una Kravets Blog - Simplicity in Design: Insights from an Industrial Engineer](https://una.im/simplicity-in-eng/#💁)
 - [ ] [Mairo Vergara - Know yourself](https://www.youtube.com/watch?v=lCEsJmzRIeo)
 - [ ] [Polymer Summit 2015 - Polymer's Styling System](https://www.youtube.com/watch?v=IbOaJwqLgog)
 - [ ] [Google I/O 2016 - Practical lessons from a year of building web components](https://www.youtube.com/watch?v=zfQoleQEa4w&t=14s)
 - [ ] [toolsday - Animation Tools with Sarah](http://toolsday.io/episodes/animationtools.html)
+
 
 #### My Deck for spaced repetition ([Anki](http://ankisrs.net/))
 - [ ] 50 cards
@@ -71,7 +80,7 @@
 | 08/01/17  | X       | 5min       | X | X | X |
 | 09/01/17  | 5min    | 5min       | X | 29 cards / 6min | X |
 | 10/01/17  | 25min   | 25min      | X | 12 cards / 3min |Polycasts #01|
-| 11/01/17  |         |            |   |   |
+| 11/01/17  | 30min   | 52min      | 5min | 15 cards / 3min | A11ycasts #01 |
 | 12/01/17  |         |            |   |   |
 | 13/01/17  |         |            |   |   |
 | 14/01/17  |         |            |   |   |
@@ -98,6 +107,7 @@
 
 - [ ] [Watch a Polycast episode every single day](special-challenges/polycast.md) - **Doing | Current 1 day**
 - [ ] [Watch all CSSConf.Asia 2015 talks](special-challenges/cssconf-asia-2015.md)
+- [ ] [Watch all "100 days of Google Dev" videos](special-challenges/100-days-of-google-dev.md) - **Doing | 1/100**
 
 ## License
 [MIT License](https://github.com/afonsopacifer/learn-english-every-single-day/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.github.io/)
