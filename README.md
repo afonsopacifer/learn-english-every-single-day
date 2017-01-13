@@ -28,30 +28,9 @@
 
 #### listening skills
 - [x] Lv 1 - Gibberish
-- [ ] Lv 2 - Understanding single words
+- [x] Lv 2 - Understanding single words
 - [ ] Lv 3 - Understanding only few phrases
 - [ ] Lv 4 - Don't understanding only few phrases
-
-#### Study 100 Texts
-- [ ] [Learn english - From Struggle Comes Success](http://afonsopacifer.github.io/learn-english/from-struggle-comes-success.html)
-- [ ] [Una Kravets Blog - 3 Years of Pattern Libraries: Lessons Learned](https://una.im/pattern-libs/#💁)
-- [ ] [RWD podcast - Digitalocean.com on the Responsive Web Design Podcast](https://responsivewebdesign.com/podcast/digitalocean/)
-- [x] [Una Kravets Blog - Rethinking Responsive Design](https://una.im/rethinking-responsive/#💁)
-- [ ] [Una Kravets Blog - Simplicity in Design: Insights from an Industrial Engineer](https://una.im/simplicity-in-eng/#💁)
-
-#### Linten 100 Comprehensible Input (Audio)
-- [x] [Una Kravets Blog - Rethinking Responsive Design](https://una.im/rethinking-responsive/#💁)
-- [x] [Introduction to the Physical Web](https://www.youtube.com/watch?v=1yaLPRgtlR0)
-- [x] [Introducing A11ycasts! -- A11ycasts #01](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&index=10)
-- [ ] [Learn english - From Struggle Comes Success](http://afonsopacifer.github.io/learn-english/from-struggle-comes-success.html)
-- [ ] [Una Kravets Blog - 3 Years of Pattern Libraries: Lessons Learned](https://una.im/pattern-libs/#💁)
-- [ ] [RWD podcast - Digitalocean.com on the Responsive Web Design Podcast](https://responsivewebdesign.com/podcast/digitalocean/)
-- [ ] [Una Kravets Blog - Simplicity in Design: Insights from an Industrial Engineer](https://una.im/simplicity-in-eng/#💁)
-- [ ] [Mairo Vergara - Know yourself](https://www.youtube.com/watch?v=lCEsJmzRIeo)
-- [ ] [Polymer Summit 2015 - Polymer's Styling System](https://www.youtube.com/watch?v=IbOaJwqLgog)
-- [ ] [Google I/O 2016 - Practical lessons from a year of building web components](https://www.youtube.com/watch?v=zfQoleQEa4w&t=14s)
-- [ ] [toolsday - Animation Tools with Sarah](http://toolsday.io/episodes/animationtools.html)
-
 
 #### My Deck for spaced repetition ([Anki](http://ankisrs.net/))
 - [ ] 50 cards
@@ -61,11 +40,24 @@
 - [ ] 1000 cards
 - [ ] 2500 cards
 
-#### Study 10 books
-- [ ] [CSS Secrets: Better Solutions to Everyday Web Design Problems](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
+## Challenges
 
-#### Study a serie season
-- [ ] [How i met your mother](https://www.google.com.br/search?q=how+i+met+your+mother&oq=how+i+meet&aqs=chrome.1.69i57j0l5.2983j0j9&sourceid=chrome&ie=UTF-8)
+#### Daily
+- [ ] [Learning 100x the "Rethinking Responsive Design" in 10 days](special-challenges/100x-rethinking-responsive-design.md) - **day 2 - total 9/100**
+- [ ] [Watch a Polycast episode every single day](special-challenges/polycast.md) - **Current 3 day**
+- [ ] <s>Watch a conference talk every single day</s>
+
+#### Weekly (Study a text)
+- [x] #01 - None
+- [ ] #02 - [Rethinking Responsive Design](https://una.im/rethinking-responsive/#💁)
+- [ ] #03 - [<s>Create reusable elements with ease -- Polycasts #14</s>](https://www.youtube.com/watch?v=p7Q1mQtFGM8&index=49&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo) 
+
+#### Yearly
+- [ ] [Watch all "100 days of Google Dev" videos](special-challenges/100-days-of-google-dev.md) - **1/100**
+- [ ] [Watch all CSSConf.Asia 2015 talks](special-challenges/cssconf-asia-2015.md) - **0/10**
+- [ ] [Watch all CSSConf.Asia 2016 talks](special-challenges/cssconf-asia-2016.md) - **1/10**
+- [ ] <s>Study a serie season</s>
+- [ ] <s>Study a book</s>
 
 ## Log
 
@@ -81,35 +73,27 @@
 | 08/01/17  | X       | 5min       | X | X | X |
 | 09/01/17  | 5min    | 5min       | X | 29 cards / 6min | X |
 | 10/01/17  | 25min   | 25min      | X | 12 cards / 3min |Polycasts #01|
-| 11/01/17  | 30min   | 1:16h      | 5min | 15 cards / 3min | A11ycasts #01 / Polycasts #07 |
-| 12/01/17  |         |            |   |   |
-| 13/01/17  |         |            |   |   |
-| 14/01/17  |         |            |   |   |
-| 15/01/17  |         |            |   |   |
-| 16/01/17  |         |            |   |   |
-| 17/01/17  |         |            |   |   |
-| 18/01/17  |         |            |   |   |
-| 19/01/17  |         |            |   |   |
-| 20/01/17  |         |            |   |   |
-| 21/01/17  |         |            |   |   |
-| 22/01/17  |         |            |   |   |
-| 23/01/17  |         |            |   |   |
-| 24/01/17  |         |            |   |   |
-| 25/01/17  |         |            |   |   |
-| 26/01/17  |         |            |   |   |
-| 27/01/17  |         |            |   |   |
-| 28/01/17  |         |            |   |   |
-| 29/01/17  |         |            |   |   |
-| 20/01/17  |         |            |   |   |
-| 31/01/17  |         |            |   |   |
-
-
-## Special challenges
-
-- [ ] [Learning 100x the "Rethinking Responsive Design" in 10 days](special-challenges/100x-rethinking-responsive-design.md) - **day 1 total 7/100**
-- [ ] [Watch a Polycast episode every single day](special-challenges/polycast.md) - **Current 2 day**
-- [ ] [Watch all CSSConf.Asia 2015 talks](special-challenges/cssconf-asia-2015.md)- **0/10**
-- [ ] [Watch all "100 days of Google Dev" videos](special-challenges/100-days-of-google-dev.md) - **1/100**
+| 11/01/17  | 30min   | 2:09h      | 5min | 15 cards / 3min | A11ycasts #01 / Polycasts #07 |
+| 12/01/17  | 10min   | 31min      | X | 34 cards / 5min | Polycasts #14 |
+| 13/01/17  |         |            |   |   |   |
+| 14/01/17  |         |            |   |   |   |
+| 15/01/17  |         |            |   |   |   |
+| 16/01/17  |         |            |   |   |   |
+| 17/01/17  |         |            |   |   |   |
+| 18/01/17  |         |            |   |   |   |
+| 19/01/17  |         |            |   |   |   |
+| 20/01/17  |         |            |   |   |   |
+| 21/01/17  |         |            |   |   |   |
+| 22/01/17  |         |            |   |   |   |
+| 23/01/17  |         |            |   |   |   |
+| 24/01/17  |         |            |   |   |   |
+| 25/01/17  |         |            |   |   |   |
+| 26/01/17  |         |            |   |   |   |
+| 27/01/17  |         |            |   |   |   |
+| 28/01/17  |         |            |   |   |   |
+| 29/01/17  |         |            |   |   |   |
+| 20/01/17  |         |            |   |   |   |
+| 31/01/17  |         |            |   |   |   |
 
 ## License
 [MIT License](https://github.com/afonsopacifer/learn-english-every-single-day/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.github.io/)
