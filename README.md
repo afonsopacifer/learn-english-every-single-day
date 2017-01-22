@@ -54,6 +54,7 @@
 - [ ] #04 - [<s>Create reusable elements with ease -- Polycasts #14</s>](https://www.youtube.com/watch?v=p7Q1mQtFGM8&index=49&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo)
 
 #### Yearly
+- [ ] [Polymer Summit Codelabs](https://codelabs.developers.google.com/polymer-summit(https://codelabs.developers.google.com/polymer-summit) - **0/12**
 - [ ] [Watch all Polymer Summit 2016 videos](special-challenges/polymer-summit-2016.md) - **?/?**
 - [ ] [Watch all "100 days of Google Dev" videos](special-challenges/100-days-of-google-dev.md) - **2/100**
 - [ ] [Watch all CSSConf.Asia 2015 talks](special-challenges/cssconf-asia-2015.md) - **0/10**
