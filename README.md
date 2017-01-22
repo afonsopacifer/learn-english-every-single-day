@@ -44,7 +44,7 @@
 
 #### Daily
 - [ ] [Learning 100x the "Rethinking Responsive Design" in x days](special-challenges/100x-rethinking-responsive-design.md) - **day 10 - total 43/100**
-- [ ] [Watch a Polycast episode every single day](special-challenges/polycast.md) - **Current 11 days**
+- [ ] [Watch a Polycast episode every single day](special-challenges/polycast.md) - **Current 13 days**
 - [ ] <s>Watch a conference talk every single day</s>
 
 #### Weekly (Study a text)
@@ -85,8 +85,8 @@
 | 18/01/17  | X       | 51min      | X | X | Polycasts #21 |
 | 19/01/17  | X       | 19min      | X | X | Polycasts #36 |
 | 20/01/17  | X       | 53min      | X | X | Polycasts #38 |
-| 21/01/17  |         |            |   |   |   |
-| 22/01/17  |         |            |   |   |   |
+| 21/01/17  | X       | 10min      | X | X | Polycasts #23 |
+| 22/01/17  | X       | 33min      | X | X | Polycasts #26 |
 | 23/01/17  |         |            |   |   |   |
 | 24/01/17  |         |            |   |   |   |
 | 25/01/17  |         |            |   |   |   |

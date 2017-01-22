@@ -13,5 +13,7 @@
 | 18/01/17  | [Behaviors -- Polycasts #21](https://www.youtube.com/watch?v=YrlmieL3Z0k&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo&index=42) |
 | 19/01/17  | [Unit Testing with Web Component Tester -- Polycasts #36](https://www.youtube.com/watch?v=YBNBr9ECXLo&index=26&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo) |
 | 20/01/17  | [Browser testing with Travis & Sauce Labs -- Polycasts #38](https://www.youtube.com/watch?v=afy_EEq_4Go&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo&index=24) |
+| 21/01/17  | [Slick web animations -- Polycasts #23](https://www.youtube.com/watch?v=Lwvi1u4XXzc&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo&index=40) |
+| 22/01/17  | [iron-ajax… wat?! -- Polycasts #26](https://www.youtube.com/watch?v=k1eR_3KqJms&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo&index=36) |
 
 ### [<-- Back](https://github.com/afonsopacifer/learn-english-every-single-day)
