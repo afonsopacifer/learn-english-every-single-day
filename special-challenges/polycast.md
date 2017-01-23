@@ -15,5 +15,6 @@
 | 20/01/17  | [Browser testing with Travis & Sauce Labs -- Polycasts #38](https://www.youtube.com/watch?v=afy_EEq_4Go&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo&index=24) |
 | 21/01/17  | [Slick web animations -- Polycasts #23](https://www.youtube.com/watch?v=Lwvi1u4XXzc&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo&index=40) |
 | 22/01/17  | [iron-ajax… wat?! -- Polycasts #26](https://www.youtube.com/watch?v=k1eR_3KqJms&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo&index=36) |
+| 23/01/17  | [How to build a CLI generator -- Polycasts #53](https://www.youtube.com/watch?v=A_OEdyhgnKc&t=45s&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN&index=8) |
 
 ### [<-- Back](https://github.com/afonsopacifer/learn-english-every-single-day)
