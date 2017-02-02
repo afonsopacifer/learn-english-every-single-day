@@ -25,6 +25,7 @@
 - [ ] [Polycasts - By Rob Dodson and Monica Dinculescu](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo)
 - [ ] [funfunfunction - By MJP](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [ ] [A11ycasts - By Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+- [ ] [Totally Tooling Tips - By Addy Osmani & Matt Gaunt](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL) 
 
 #### listening skills
 - [x] Lv 1 - Gibberish
@@ -43,20 +44,15 @@
 ## Challenges
 
 #### Daily
-- [ ] [Learning 100x the "Rethinking Responsive Design" in x days](special-challenges/100x-rethinking-responsive-design.md) - **day 10 - total 43/100**
+- [ ] [Learning 100x the "Rethinking Responsive Design" in x days](special-challenges/100x-rethinking-responsive-design.md) - **total 50/100**
 - [x] [Watch a Polycast episode every single day](special-challenges/polycast.md) - **Total 15 days**
 - [ ] <s>Watch a conference talk every single day</s>
 
-#### Weekly (Study a text)
-- [x] #01 - None
-- [x] #02 - [Rethinking Responsive Design](https://una.im/rethinking-responsive/#💁)
-- [x] #03 - [Rethinking Responsive Design](https://una.im/rethinking-responsive/#💁)
-- [x] #04 - [Rethinking Responsive Design](https://una.im/rethinking-responsive/#💁)
-- [ ] #05 - [Rethinking Responsive Design](https://una.im/rethinking-responsive/#💁)
 
 #### Yearly
-- [ ] [Polymer Summit Codelabs](https://codelabs.developers.google.com/polymer-summit(https://codelabs.developers.google.com/polymer-summit) - **0/12**
+- [ ] [Polymer Summit Codelabs](https://codelabs.developers.google.com/polymer-summit) - **0/12**
 - [ ] [Watch all Polymer Summit 2016 videos](special-challenges/polymer-summit-2016.md) - **?/?**
+- [ ] [Watch all I/0 16 Polymer videos](special-challenges/io-polymer-2016.md) - **1/5**
 - [ ] [Watch all "100 days of Google Dev" videos](special-challenges/100-days-of-google-dev.md) - **2/100**
 - [ ] [Watch all CSSConf.Asia 2015 talks](special-challenges/cssconf-asia-2015.md) - **0/10**
 - [ ] [Watch all CSSConf.Asia 2016 talks](special-challenges/cssconf-asia-2016.md) - **1/10**
@@ -71,13 +67,13 @@
 
 ## February status
 
-| Day       | Read    |  Listener  | Pronunciation | SRS  | EP |
-|:---------:|:-------:|:----------:|:--------------:|:---:|:---:|
-| 01/02/17  |         |            |   |   |   |
-| 02/02/17  |         |            |   |   |   |
-| 03/02/17  |         |            |   |   |   |
-| 04/02/17  |         |            |   |   |   |
-| 05/02/17  |         |            |   |   |   |
+| Day       | Read    |  Listener  | Pronunciation | SRS  | EP | Movies |
+|:---------:|:-------:|:----------:|:--------------:|:---:|:---:|:---:|
+| 01/02/17  |  15min  | 2:20h      | x | x | A11ycasts #01 / A11ycasts #02 | Trolls (1/2) |
+| 02/02/17  |         |            |   |   |   |   |
+| 03/02/17  |         |            |   |   |   |   |
+| 04/02/17  |         |            |   |   |   |   |
+| 05/02/17  |         |            |   |   |   |   |
 
 ## License
 [MIT License](https://github.com/afonsopacifer/learn-english-every-single-day/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.github.io/)
