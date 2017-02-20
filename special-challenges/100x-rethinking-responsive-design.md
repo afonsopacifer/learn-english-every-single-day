@@ -24,6 +24,11 @@
 | 30/01/17  | 0x |
 | 31/01/17  | 0x |
 | 01/02/17  | 6x |
-| **total:** | 50x |
+| 02/02/17  | 0x |
+| 03/02/17  | 0x |
+| 04/02/17  | 0x |
+| 05/02/17  | 5x |
+| 06/02/17  | 5x |
+| **total:** | 60x |
 
 ### [<-- Back](https://github.com/afonsopacifer/learn-english-every-single-day)
