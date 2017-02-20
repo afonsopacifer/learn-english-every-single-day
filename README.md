@@ -25,7 +25,7 @@
 - [ ] [Polycasts - By Rob Dodson and Monica Dinculescu](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo)
 - [ ] [funfunfunction - By MJP](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [ ] [A11ycasts - By Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
-- [ ] [Totally Tooling Tips - By Addy Osmani & Matt Gaunt](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL) 
+- [ ] [Totally Tooling Tips - By Addy Osmani & Matt Gaunt](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
 
 #### listening skills
 - [x] Lv 1 - Gibberish
@@ -70,10 +70,33 @@
 | Day       | Read    |  Listener  | Pronunciation | SRS  | EP | Movies |
 |:---------:|:-------:|:----------:|:--------------:|:---:|:---:|:---:|
 | 01/02/17  |  15min  | 2:20h      | x | x | A11ycasts #01 / A11ycasts #02 | Trolls (1/2) |
-| 02/02/17  |         |            |   |   |   |   |
-| 03/02/17  |         |            |   |   |   |   |
-| 04/02/17  |         |            |   |   |   |   |
-| 05/02/17  |         |            |   |   |   |   |
+| 02/02/17  |    x    | 5min       | X | X | X | X |
+| 03/02/17  |    x    | 10min      | X | X | X | X |
+| 04/02/17  |    x    | 3min       | X | X | X | X |
+| 05/02/17  |    x    | 3min       | X | X | X | X |
+| 06/02/17  |    x    | 3min       | X | X | X | X |
+| 07/02/17  |    x    | 3min       | X | X | X | X |
+| 08/02/17  |    x    | 3min       | X | X | X | X |
+| 09/02/17  |    x    | 3min       | X | X | X | X |
+| 10/02/17  |    x    | 3min       | X | X | X | X |
+| 11/02/17  |    x    | 3min       | X | X | X | X |
+| 12/02/17  |    x    | 3min       | X | X | X | X |
+| 13/02/17  |    x    | 3min       | X | X | X | X |
+| 14/02/17  |    x    | 3min       | X | X | X | X |
+| 15/02/17  |    x    | 3min       | X | X | X | X |
+| 16/02/17  |    x    | 3min       | X | X | X | X |
+| 17/02/17  |    x    | 3min       | X | X | X | X |
+| 18/02/17  | 2:00h   | x          | X | X | X | X |
+| 19/02/17  |    x    | 20min      | X | X | X | X |
+| 20/02/17  |         |            | X | X | X | X |
+| 21/02/17  |         |            |   |   |   |   |
+| 22/02/17  |         |            |   |   |   |   |
+| 23/02/17  |         |            |   |   |   |   |
+| 24/02/17  |         |            |   |   |   |   |
+| 25/02/17  |         |            |   |   |   |   |
+| 25/02/17  |         |            |   |   |   |   |
+| 27/02/17  |         |            |   |   |   |   |
+| 28/02/17  |         |            |   |   |   |   |
 
 ## License
 [MIT License](https://github.com/afonsopacifer/learn-english-every-single-day/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.github.io/)
