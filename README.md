@@ -10,6 +10,7 @@
 - [React pomodoro](http://afonsopacifer.github.io/react-pomodoro/) - Pomodoro timer
 - [Vue meditation](https://afonsopacifer.github.io/vue-meditation/) - Meditation timer
 - [Itunes](http://www.apple.com/br/itunes/) - Audio player
+- [TransNow Extension](https://chrome.google.com/webstore/detail/transnow/bhbbdjohjpodjdkmbdadmpmlaoecdjmb) - Extension for Chrome to help the translation in your own page
 
 ## Rules for every day
 - Read a text
