@@ -64,40 +64,44 @@
 
 | Month     | Read    |  Listener  | Pronunciation | SRS  | EP |
 |:---------:|:-------:|:----------:|:--------------:|:----:|:---:|
-| [January](logs/01-jan.md)   | 3:00h   | 15:21h     | 5min           | 143x | 18  |
+| [January](logs/01-jan.md) | 3:00h | 15:21h | 5min | 143x | 18  |
+| [February](logs/02-feb.md) | 2:50h | 07:15h | 0min | 0x | 9  |
 
-## February status
+## March status
 
 | Day       | Read    |  Listener  | Pronunciation | SRS  | EP | Movies |
 |:---------:|:-------:|:----------:|:--------------:|:---:|:---:|:---:|
-| 01/02/17  |  15min  | 2:20h      | x | x | A11ycasts #01 / A11ycasts #02 | Trolls (1/2) |
-| 02/02/17  |    x    | 33min      | X | X | A11ycasts #03 / A11ycasts #04 / Totally Tooling Tips #01 / Totally Tooling Tips #01.1 | X |
-| 03/02/17  |    x    | 50min      | X | X | A11ycasts #04 | X |
-| 04/02/17  |    x    | 1:03h      | X | X | A11ycasts #06 | X |
-| 05/02/17  | 25min   | 50min      | X | X | A11ycasts #07 | X |
-| 06/02/17  | 10min   | 25min      | X | X | X | X |
-| 07/02/17  |    x    | 3min       | X | X | X | X |
-| 08/02/17  |    x    | 3min       | X | X | X | X |
-| 09/02/17  |    x    | 3min       | X | X | X | X |
-| 10/02/17  |    x    | 3min       | X | X | X | X |
-| 11/02/17  |    x    | 3min       | X | X | X | X |
-| 12/02/17  |    x    | 3min       | X | X | X | X |
-| 13/02/17  |    x    | 3min       | X | X | X | X |
-| 14/02/17  |    x    | 3min       | X | X | X | X |
-| 15/02/17  |    x    | 3min       | X | X | X | X |
-| 16/02/17  |    x    | 3min       | X | X | X | X |
-| 17/02/17  |    x    | 3min       | X | X | X | X |
-| 18/02/17  | 2:00h   | x          | X | X | X | X |
-| 19/02/17  |    x    | 20min      | X | X | X | X |
-| 20/02/17  |         |            | X | X | X | X |
-| 21/02/17  |         |            |   |   |   |   |
-| 22/02/17  |         |            |   |   |   |   |
-| 23/02/17  |         |            |   |   |   |   |
-| 24/02/17  |         |            |   |   |   |   |
-| 25/02/17  |         |            |   |   |   |   |
-| 25/02/17  |         |            |   |   |   |   |
-| 27/02/17  |         |            |   |   |   |   |
-| 28/02/17  |         |            |   |   |   |   |
+| 01/03/17  |    -    |     -      | - | - | - | - |
+| 02/03/17  |    -    |     -      | - | - | - | - |
+| 03/03/17  |    -    |     -      | - | - | - | - |
+| 04/03/17  |    -    |     -      | - | - | - | - |
+| 05/03/17  |    -    |     -      | - | - | - | - |
+| 06/03/17  |    -    |     -      | - | - | - | - |
+| 07/03/17  |   7min  |    7min    | x | x | x | x |
+| 08/03/17  |  10min  |    25min   | X | X | X | X |
+| 09/03/17  |  10min  |    25min   | X | X | X | X |
+| 10/03/17  |    0    |     0      | X | X | X | X |
+| 11/03/17  |    0    |     0      | X | X | X | X |
+| 12/03/17  |    0    |     0      | X | X | X | X |
+| 13/03/17  |    0    |     0      | X | X | X | X |
+| 14/03/17  |    0    |     0      | X | X | X | X |
+| 15/03/17  |    0    |     0      | X | X | X | X |
+| 16/03/17  |    0    |     0      | X | X | X | X |
+| 17/03/17  |    0    |     0      | X | X | X | X |
+| 18/03/17  |    0    |     0      | X | X | X | X |
+| 19/03/17  |    0    |     0      | X | X | X | X |
+| 20/03/17  |    0    |     0      | X | X | X | X |
+| 21/03/17  |    0    |     0      | X | X | X | X |
+| 22/03/17  |    0    |     0      | X | X | X | X |
+| 23/03/17  |    0    |     0      | X | X | X | X |
+| 24/03/17  |    0    |     0      | X | X | X | X |
+| 25/03/17  |    0    |     0      | X | X | X | X |
+| 26/03/17  |    0    |     0      | X | X | X | X |
+| 27/03/17  |    0    |     0      | X | X | X | X |
+| 28/03/17  |    0    |     0      | X | X | X | X |
+| 29/03/17  |    0    |     0      | X | X | X | X |
+| 30/03/17  |    0    |     0      | X | X | X | X |
+| 31/03/17  |    0    |     0      | X | X | X | X |
 
 ## License
 [MIT License](https://github.com/afonsopacifer/learn-english-every-single-day/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.github.io/)
